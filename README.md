@@ -8,8 +8,8 @@
 ![KNIME](https://img.shields.io/badge/KNIME-4.3.3-yellow)
 
 ## Rational Design of Organelle-targeted Fluorescent Probes: Insights from Artificial Intelligence
-### ChemCOTar aims to provide a multi-level framework to predict whether a compound is an organelle-targeted probe (B-PvsC model) and which organelles it might target  (M-PvsP model).
+##### ChemCOTar aims to provide a multi-level framework to predict whether a compound is an organelle-targeted probe (B-PvsC model) and which organelles it might target  (M-PvsP model).
 
-## This repository provides two workflows based on KNIME software:
-#### 1)
+##### This repository provides two workflows based on KNIME software:
+1) *a, B-PvsC model; b, B-MvsP model; c, M-PvsP model; d, B-McoL model*
 
