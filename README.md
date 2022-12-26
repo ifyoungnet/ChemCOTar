@@ -16,3 +16,11 @@
 
 Here is a snapshot:
 
+![snapshot](https://github.com/ifyoungnet/ChemCOTar/blob/main/snapshot%20for%20the%20workflow.svg)
+
+## Publication
+> Jie Dong, Jie Qian, Kunqian Yu, Shuai Huang, Xiang Cheng, Fei Chen, Hualiang Jiang, Wen-bin Zeng. Rational Design of Organelle-targeted Fluorescent Probes: Insights from Artificial Intelligence. *Research*, submitted.
+
+## Contact
+  
+  * Dong Jie: <jiedong@csu.edu.cn> 
