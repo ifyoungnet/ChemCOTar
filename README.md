@@ -20,6 +20,14 @@ Compare the <font color="#dd0000">`S indices.TMean`</font> vs `S indices.QMean` 
 * `S indices.QMean`(Query_Mean): Mean of the calculated similarity between query molecule and the whole training dataset.
 * `S indices.QMax`(Query_Max): Max of the calculated similarity between quary molecule and the whole training dataset.
 
+| Model | S indices.TMax|S indices.TMean|
+| ---------- | -----------|-----------|
+| B-PvsC |	0.844±0.107 |	0.41±0.069 |
+| B-MvsP |  0.861±0.091	| 0.444±0.058 |
+| M-PvsP | 0.861±0.091  |0.444±0.058 |
+| B-McoL | 0.853±0.097 |0.443±0.059 |
+
+
 Here is a snapshot:
 
 ![snapshot](https://github.com/ifyoungnet/ChemCOTar/blob/main/snapshot%20for%20the%20workflow.svg)
