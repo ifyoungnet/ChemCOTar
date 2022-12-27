@@ -11,8 +11,10 @@
 ##### ChemCOTar aims to provide a multi-level framework to predict whether a compound is an organelle-targeted probe (B-PvsC model) and which organelles it might target  (M-PvsP model).
 
 ##### This repository provides two workflows based on KNIME software:
-1) Example workflow for multi-level prediction framework, including: *a, B-PvsC model; b, B-MvsP model; c, M-PvsP model; d, B-McoL model*
+1) Example workflow for multi-level prediction framework, including: *a, B-PvsC model; b, B-MvsP model; c, M-PvsP model; d, B-McoL model*.
+The detailed information about the four models could be found in the paper listed below.
 2) Example workflow for application domain.
+Compare the <font color="#dd0000">`S indices.TMean`</font> vs `S indices.QMean` and `S indices.TMax` vs `S indices.QMax`. We suggest that a molecule having a `QMean` within 2 fold standard deviation or higher `QMax` is more likely in the application domain. Users should analysis the result according to their own circumstances.
 
 Here is a snapshot:
 
