@@ -15,6 +15,10 @@
 The detailed information about the four models could be found in the paper listed below.
 2) Example workflow for application domain.
 Compare the <font color="#dd0000">`S indices.TMean`</font> vs `S indices.QMean` and `S indices.TMax` vs `S indices.QMax`. We suggest that a molecule having a `QMean` within 2 fold standard deviation or higher `QMax` is more likely in the application domain. Users should analysis the result according to their own circumstances.
+* `S indices.TMean`: Mean and standard deviation of the calculated mean similarity between each molecule and the whole training dataset (excluding itself).<br>
+* `S indices.TMax`: Mean and standard deviation of calculated max similarity between each molecule and the whole training dataset (excluding itself).<br>
+* `S indices.QMean`(Query_Mean): Mean of the calculated similarity between query molecule and the whole training dataset.
+* `S indices.QMax`(Query_Max): Max of the calculated similarity between quary molecule and the whole training dataset.
 
 Here is a snapshot:
 
